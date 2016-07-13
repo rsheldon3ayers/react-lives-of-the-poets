@@ -1,0 +1,28 @@
+{
+  "name": "react-lives-of-the-poets",
+  "version": "1.0.0",
+  "description": "A book",
+  "main": "index.js",
+  "scripts": {
+   "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsheldon3ayers/react-lives-of-the-poets.git"
+  },
+  "author": "Robert Ayers <rsheldon3ayers@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsheldon3ayers/react-lives-of-the-poets/issues"
+  },
+  "homepage": "https://github.com/rsheldon3ayers/react-lives-of-the-poets#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "webpack": "^1.13.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^1.14.1"
+  }
+}
